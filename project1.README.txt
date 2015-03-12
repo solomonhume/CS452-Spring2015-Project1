@@ -1,3 +1,7 @@
-name, date, description
+Jiaju Huang
+March 12, 2015
 
-be sure to include complete details of how to interact with your game, the scoring system, and how to win
+This game is a first person shooter using three.js. Everyone in this game has 5 hit points. All bullets does 1 damage. 
+Run out of hit points will die. Each killing gives 100 score.
+Kill all 7 opponents and win!
+
